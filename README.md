@@ -19,4 +19,4 @@ The main method includes test cases to demonstrate:
 Deleting the last occurrence of an item that appears multiple times.
 Deleting the last occurrence of an item that only appears once.
 Handling cases where the item does not exist in the list.
-Usage
+
